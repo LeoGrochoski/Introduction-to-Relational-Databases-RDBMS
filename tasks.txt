@@ -12,15 +12,14 @@ Task 4B: Upload the screenshot with the normalized product_type table in the ERD
 
 Task 5A: Upload the screenshot with the primary keys in the tables in your ERD (Task5A.png or Task5A.jpg). (2 pts)
 
-Task 5B: Upload the screenshot with the relationships in your ERD between the following tables:
+Task 5B: Upload the screenshot with the relationships in your ERD between the following tables: (Task5B.png or Task5B.jpg). (2 pts)
+
 
 - sales_detail to sales_transaction
 
 - sales_detail to product
 
 - product to product_type 
-
-(Task5B.png or Task5B.jpg). (2 pts)
 
 Task 6A: Upload the screenshot of the tables shown in the tree-view pane on the left-hand side of the page by running the SQL script from the ERD Tool. (Task6A.png or Task6A.jpg). (2 pt)
 
