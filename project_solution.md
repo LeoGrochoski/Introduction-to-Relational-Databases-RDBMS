@@ -85,3 +85,5 @@
 ## Task 10: Upload the screenshot of the imported coffee_shop_products data into a MySQL database. (Task10.png or Task10.jpg) (1 pt)
 
 ![image11.png](./img/product_info_m_view_mysql.png)
+
+
