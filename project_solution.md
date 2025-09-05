@@ -69,3 +69,19 @@
 ![image7.png](./img/transaction_detail_query.png)
 
 ## Task 7: Upload the screenshot of the staff-locations_view shown in the tree-view pane on the left-hand side of the page alongside the results in the Data Output pane (Task7.png or Task7.jpg). (4 pts)
+
+![image8.png](./img/staff_view.png)
+
+
+## Task 8: Upload the screenshot of the materialized view, product_info_m-view, shown in the tree-view pane on the left-hand side of the page, with the results in the Data Output pane. (Task8.png or Task8.jpg) (4 pts)
+
+![image9.png](./img/materialized_product_info_view.png)
+
+## Task 9: Upload the screenshot of the imported staff_location data into a MySQL database. (Task9.png or Task9.jpg) (4 pts)
+
+![image10.png](./img/data_staff_locations_view_mysql.png)
+
+
+## Task 10: Upload the screenshot of the imported coffee_shop_products data into a MySQL database. (Task10.png or Task10.jpg) (1 pt)
+
+![image11.png](./img/product_info_m_view_mysql.png)
