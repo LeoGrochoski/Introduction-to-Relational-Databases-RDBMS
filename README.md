@@ -1,6 +1,6 @@
 # 📚 Introduction to Relational Databases (RDBMS) - IBM
 
-https://img.shields.io/badge/Coursera-IBM_Data_Engineer_Specialization-blue
+[![Coursera](https://img.shields.io/badge/Coursera-IBM_Data_Science_Specialization-blue)](https://www.coursera.org/learn/sql-data-science)
 
 
 ## 📖 Summary
